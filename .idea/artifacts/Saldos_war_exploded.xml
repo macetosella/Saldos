@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Saldos:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Saldos_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Saldos/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Saldos" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,279 @@
+.container-body {
+    padding-top: 85px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists
+   will truncate terms that are too long to fit in the left column
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Sobrecarga de estilos para el Navbar bootstrap*/
+
+.navbar-brand {
+    font-size: 22px;
+    color: #004796;
+}
+
+.navbar-default .navbar-brand,
+.navbar-default .navbar-brand {
+    color: #004796;
+}
+
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+    color: #004796;
+}
+
+.navbar-default {
+    background-image: none;
+    border-color: lightgray;
+}
+
+.navbar-default {
+    background-color: rgb(255, 255, 255);
+}
+
+.navbar-default .navbar-nav,
+.navbar-default .navbar-nav > a {
+    font-size: 12px;
+    text-transform: uppercase;
+}
+
+.navbar-default .navbar-nav > .open > a,
+.navbar-default .navbar-nav > .active > a {
+    background-image: none;
+    -ms-box-shadow: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+    background-color: transparent;
+    color: #6093e7;
+    font-weight: bold;
+}
+
+.navbar-fixed-top {
+    border-width: 0 0 2px;
+}
+
+.container .jumbotron,
+.container-fluid .jumbotron {
+    position: relative;
+    padding: 0 60px;
+    background-color: transparent;
+}
+
+.navbar-btn {
+    margin-bottom: 0;
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+    background-color: #6093e7;
+}
+
+.navbar-btn a h6 {
+    color: #ffffff;
+}
+
+/*Responsive logo*/
+@media (max-width: 1200px ) {
+    .imgResponsiveLogo {
+        max-height: 90px;
+        padding: 15px;
+    }
+
+    .nav {
+        font-size: 9px;
+    }
+
+    .navbar-brand {
+        font-size: 12px;
+    }
+}
+
+@media (max-width: 992px ) {
+    .imgResponsiveLogo {
+        max-height: 75px;
+        padding: 10px;
+    }
+
+    .navbar-brand {
+        font-size: 12px;
+    }
+
+    .tab-pane > div > div > h4 {
+        font-size: 12px;
+    }
+}
+
+/*End Responsive logo*/
+
+/* Responsive IMG sistemas*/
+
+@media (max-width: 480px ) {
+    .img-sistemas {
+        width: 90px;
+        height: auto;
+        padding: 10px;
+    }
+
+    .img-Social {
+        width: 40px;
+        height: auto;
+    }
+
+    .imgResponsiveLogo {
+        height: 70px;
+        padding: 15px;
+    }
+
+    .tab-pane > div > div > h4 {
+        font-size: 12px;
+    }
+}
+
+/* End Responsive IMG sistemas*/
+
+
+/*Collapse menú in < 1200px width*/
+@media (max-width: 1200px) {
+
+    .navbar-header {
+        float: none;
+    }
+
+    .navbar-left, .navbar-right {
+        float: none !important;
+    }
+
+    .navbar-toggle {
+        display: block;
+    }
+
+    .navbar-collapse {
+        border-top: 1px solid transparent;
+        box-shadow: inset 0 1px 0 rgba(255,255,255,0.1);
+    }
+
+    .navbar-fixed-top {
+        top: 0;
+        border-width: 0 0 1px;
+    }
+
+    .navbar-collapse.collapse {
+        display: none !important;
+    }
+
+    .navbar-nav {
+        float: none !important;
+        margin-top: 7.5px;
+    }
+
+    .navbar-nav > li {
+        float: none;
+    }
+
+    .navbar-nav > li > a {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+
+    .collapse.in {
+        display: block !important;
+    }
+
+
+    .container .jumbotron,
+    .container-fluid .jumbotron {
+        position: relative;
+        padding: 0 0px;
+        background-color: transparent;
+    }
+}
+
+.thumbnail > img {
+    max-width: 80px;
+    width: 80px;
+}
+
+.tab-pane {
+    min-height: 360px;
+}
+
+.label {
+    font-size: 12px;
+}
+
+.popover {
+    max-width: 400px;
+}
+
+@media screen (min-width: 979px) {
+    .popover {
+        max-width: 276px;
+        width: 450px !important;
+        height: 150px;
+    }
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    /* Set the fixed height of the footer here */
+    height: 60px !important;
+    background-color: #f5f5f5;
+    color: #ffffff;
+}
+
+.footer > a > h6 {
+    color: #ffffff;
+}
+
+/* Custom page CSS
+-------------------------------------------------- */
+/* Not required for template or sticky footer method. */
+
+body > .container {
+    padding: 0 15px 0;
+}
+
+body {
+    margin-bottom: 60px;
+}
+
+.container .text-muted {
+    margin: 20px 0;
+}
+
+.footer > .container {
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+code {
+    font-size: 80%;
+}
+
+
+.img-Background{
+    background-image:url('../Images/parallax-71.jpg')
+}
