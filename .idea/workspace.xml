@@ -5,8 +5,103 @@
       <artifact name="Saldos:war exploded" />
     </artifacts-to-build>
   </component>
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/ar/com/saldos/servlets/Servlet.java" line="18" mnemonic="7" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b836004-9652-4c06-93df-00a287e049e7" name="Default Changelist" comment="" />
+    <list default="true" id="6b836004-9652-4c06-93df-00a287e049e7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ar/com/saldos/servlets/Servlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/css/scrolling-nav.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/cleave.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/scrolling-nav.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/vendor/bootstrap/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/vendor/bootstrap/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/vendor/bootstrap/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/vendor/bootstrap/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/vendor/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/vendor/bootstrap/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/vendor/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/vendor/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/vendor/bootstrap/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/vendor/bootstrap/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/vendor/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/vendor/bootstrap/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/vendor/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/vendor/bootstrap/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/vendor/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/vendor/bootstrap/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/vendor/jquery-easing/jquery.easing.compatibility.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/vendor/jquery-easing/jquery.easing.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/vendor/jquery-easing/jquery.easing.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/vendor/jquery/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/vendor/jquery/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/vendor/jquery/jquery.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/vendor/jquery/jquery.slim.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/vendor/jquery/jquery.slim.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/vendor/jquery/jquery.slim.min.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Saldos_war_exploded/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Saldos_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Saldos_war_exploded/content/Site.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Saldos_war_exploded/content/bootstrap-theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Saldos_war_exploded/content/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Saldos_war_exploded/content/css/custom.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Saldos_war_exploded/content/css/skins/default.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Saldos_war_exploded/content/css/theme-blog.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Saldos_war_exploded/content/css/theme-elements.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Saldos_war_exploded/content/css/theme-shop.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Saldos_war_exploded/content/css/theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Saldos_war_exploded/content/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Saldos_war_exploded/content/vendor/circle-flip-slideshow/css/component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Saldos_war_exploded/content/vendor/font-awesome/css/font-awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Saldos_war_exploded/content/vendor/font-awesome/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Saldos_war_exploded/content/vendor/font-awesome/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Saldos_war_exploded/content/vendor/font-awesome/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Saldos_war_exploded/content/vendor/rs-plugin/css/layers.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Saldos_war_exploded/content/vendor/rs-plugin/css/navigation.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Saldos_war_exploded/content/vendor/rs-plugin/css/settings.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Saldos_war_exploded/content/vendor/simple-line-icons/css/simple-line-icons.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Saldos_war_exploded/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Saldos_war_exploded/scripts/about/jquery.tools.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Saldos_war_exploded/scripts/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Saldos_war_exploded/scripts/custom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Saldos_war_exploded/scripts/jquery-2.1.4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Saldos_war_exploded/scripts/jquery-migrate-1.2.1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Saldos_war_exploded/scripts/jquery.jcarousel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Saldos_war_exploded/scripts/jquery.mixitup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Saldos_war_exploded/scripts/modernizr-2.8.3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Saldos_war_exploded/scripts/respond.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/content/Site.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/content/bootstrap-theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/content/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/content/css/custom.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/content/css/skins/default.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/content/css/theme-blog.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/content/css/theme-elements.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/content/css/theme-shop.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/content/css/theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/content/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/content/vendor/circle-flip-slideshow/css/component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/content/vendor/font-awesome/css/font-awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/content/vendor/font-awesome/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/content/vendor/font-awesome/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/content/vendor/font-awesome/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/content/vendor/rs-plugin/css/layers.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/content/vendor/rs-plugin/css/navigation.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/content/vendor/rs-plugin/css/settings.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/content/vendor/simple-line-icons/css/simple-line-icons.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/scripts/about/jquery.tools.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/scripts/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/scripts/custom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/scripts/jquery-2.1.4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/scripts/jquery-migrate-1.2.1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/scripts/jquery.jcarousel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/scripts/jquery.mixitup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/scripts/modernizr-2.8.3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/scripts/respond.js" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,53 +113,111 @@
     <session id="1645062503">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="18" />
-          <entry key="js" value="13" />
-          <entry key="jsp" value="1" />
-          <entry key="xml" value="1" />
+          <entry key="css" value="20" />
+          <entry key="html" value="2" />
+          <entry key="java" value="2" />
+          <entry key="js" value="17" />
+          <entry key="jsp" value="5" />
+          <entry key="ts" value="1" />
+          <entry key="ttf" value="1" />
+          <entry key="xml" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="18" />
-          <entry key="JSP" value="1" />
-          <entry key="JavaScript" value="13" />
-          <entry key="XML" value="1" />
+          <entry key="CSS" value="20" />
+          <entry key="Font" value="1" />
+          <entry key="HTML" value="2" />
+          <entry key="JAVA" value="2" />
+          <entry key="JSP" value="5" />
+          <entry key="JavaScript" value="17" />
+          <entry key="TypeScript" value="1" />
+          <entry key="XML" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="52" />
-          <entry key="jsp" value="127" />
+          <entry key="java" value="17" />
+          <entry key="jsp" value="2385" />
+          <entry key="xml" value="37" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="52" />
-          <entry key="JSP" value="127" />
+          <entry key="JAVA" value="17" />
+          <entry key="JSP" value="2385" />
+          <entry key="XML" value="37" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/web/index.html">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="815" column="86" selection-start-line="815" selection-start-column="86" selection-end-line="815" selection-end-column="86" />
+            <state relative-caret-position="1003">
+              <caret line="59" column="55" selection-start-line="59" selection-start-column="55" selection-end-line="59" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/WEB-INF/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="302">
+              <caret line="217" column="68" selection-start-line="217" selection-start-column="68" selection-end-line="217" selection-end-column="68" />
               <folding>
-                <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#noscript#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#noscript#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#noscript#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#label#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#2901#2909#0#HTML" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#form#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#strong#0;n#form#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#label#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#strong#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#button#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#label#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#button#0;n#form#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ar/com/saldos/servlets/Servlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -75,8 +228,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -85,10 +238,16 @@
       <find>/img</find>
       <find>peraci</find>
       <find>titl</find>
+      <find>seri</find>
+      <find>services</find>
+      <find>amazon-recibo</find>
     </findStrings>
     <replaceStrings>
       <replace>img</replace>
     </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -121,6 +280,10 @@
         <option value="$PROJECT_DIR$/web/content/vendor/simple-line-icons/css/simple-line-icons.min.css" />
         <option value="$PROJECT_DIR$/web/index.jsp" />
         <option value="$PROJECT_DIR$/web/index.html" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/ar/com/saldos/servlets/Servlet.java" />
+        <option value="$PROJECT_DIR$/web/js/sss.js" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/index.jsp" />
       </list>
     </option>
   </component>
@@ -143,12 +306,12 @@
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -165,6 +328,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -177,17 +341,36 @@
               <item name="Saldos" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Saldos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Saldos" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Saldos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Saldos" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Saldos" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Saldos" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540425523572" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540525902834" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -196,12 +379,18 @@
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\aceto\IdeaProjects\Saldos\web\content" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\aceto\IdeaProjects\Saldos\web\WEB-INF" />
+      <recent name="C:\Users\aceto\IdeaProjects\Saldos\web" />
+      <recent name="C:\Users\aceto\IdeaProjects\Saldos" />
+      <recent name="C:\Users\aceto\IdeaProjects\Saldos\web\content\vendor\simple-line-icons\fonts" />
       <recent name="C:\Users\aceto\IdeaProjects\Saldos\web\content\vendor\font-awesome\font" />
-      <recent name="C:\Users\aceto\IdeaProjects\Saldos\web\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\aceto\IdeaProjects\Saldos\web" />
+      <recent name="C:\Users\aceto\IdeaProjects\Saldos" />
+      <recent name="C:\Users\aceto\IdeaProjects\Saldos\web\WEB-INF" />
+      <recent name="C:\Users\aceto\IdeaProjects\Saldos\web\content" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -218,6 +407,8 @@
   </component>
   <component name="RunManager">
     <configuration name="Tomcat 8.0.53" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.53" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/Saldos" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
       <deployment>
         <artifact name="Saldos:war exploded">
           <settings>
@@ -299,48 +490,51 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1540421649143</updated>
-      <workItem from="1540421652693" duration="3831000" />
+      <workItem from="1540421652693" duration="4506000" />
+      <workItem from="1540467141957" duration="995000" />
+      <workItem from="1540477504175" duration="185000" />
+      <workItem from="1540478029027" duration="31540000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3831000" />
+    <option name="totallyTimeSpent" value="37226000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Capture Tool" />
-      <window_info id="Web" sideWeight="0.50180507" side_tool="true" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49819493" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4967462" visible="true" weight="0.25746268" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Application Servers" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Java Enterprise" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" sideWeight="0.5032538" side_tool="true" weight="0.25746268" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Application Servers" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -350,9 +544,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/content/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="472">
@@ -381,16 +572,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/scripts/modernizr-2.8.3.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="472">
-          <caret line="1405" column="24" selection-start-line="1405" selection-start-column="24" selection-end-line="1405" selection-end-column="24" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/content/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="472">
@@ -402,9 +583,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="472">
           <caret line="9209" column="4" selection-start-line="9209" selection-start-column="4" selection-end-line="9209" selection-end-column="4" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -412,9 +590,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="472">
           <caret line="520" column="21" selection-start-line="520" selection-start-column="21" selection-end-line="520" selection-end-column="21" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -422,9 +597,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="472">
           <caret line="2316" column="10" selection-start-line="2316" selection-start-column="10" selection-end-line="2316" selection-end-column="10" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -432,17 +604,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="472">
           <caret line="339" column="9" selection-start-line="339" selection-start-column="9" selection-end-line="339" selection-end-column="9" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#0#5#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/scripts/custom.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="472">
-          <caret line="145" column="3" selection-start-line="145" selection-start-column="3" selection-end-line="145" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -450,9 +611,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="3257" selection-start-line="13" selection-start-column="3257" selection-end-line="13" selection-end-column="3257" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -460,9 +618,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="166">
           <caret line="1054" column="27" selection-start-line="1054" selection-start-column="27" selection-end-line="1054" selection-end-column="27" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -522,20 +677,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/content/vendor/simple-line-icons/css/simple-line-icons.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="10943" selection-start-column="10943" selection-end-column="10943" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/scripts/jquery.mixitup.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="491">
           <caret line="1336" column="11" selection-start-line="1336" selection-start-column="11" selection-end-line="1336" selection-end-column="11" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -550,22 +695,109 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="477">
           <caret line="4943" column="1" selection-start-line="4943" selection-start-column="1" selection-end-line="4943" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/scripts/modernizr-2.8.3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="472">
+          <caret line="719" column="74" selection-start-line="719" selection-start-column="74" selection-end-line="719" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="56" lean-forward="true" selection-start-line="17" selection-start-column="56" selection-end-line="17" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/scripts/custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="491">
+          <caret line="145" column="3" selection-start-line="145" selection-start-column="3" selection-end-line="145" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/content/vendor/simple-line-icons/fonts/Simple-Line-Icons.ttf">
+      <provider selected="true" editor-type-id="fontseditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/content/vendor/simple-line-icons/css/simple-line-icons.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="318" lean-forward="true" selection-start-column="318" selection-end-column="318" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/vendor/jquery/jquery.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="59" column="55" selection-start-line="59" selection-start-column="55" selection-end-line="59" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ar/com/saldos/servlets/Servlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
           <folding>
-            <element signature="e#91456#91699#2" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/index.html">
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="815" column="86" selection-start-line="815" selection-start-column="86" selection-end-line="815" selection-end-column="86" />
+        <state relative-caret-position="272">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/vendor/bootstrap/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="46" column="17" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/js/cleave.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="17275" selection-start-line="7" selection-start-column="17275" selection-end-line="7" selection-end-column="17275" />
           <folding>
-            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#noscript#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#noscript#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#noscript#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="217" column="68" selection-start-line="217" selection-start-column="68" selection-end-line="217" selection-end-column="68" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#2901#2909#0#HTML" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#form#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#strong#0;n#form#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#strong#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#label#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#form#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
