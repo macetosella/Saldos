@@ -55,6 +55,25 @@
         border-color: #007BFF;
         background-color: #FFFFFF;
     }
+    .fondo:before{
+        background-image: url('../img/fondo.jpg');
+        content: ' ';
+        display: block;
+        position: absolute;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 150%;
+        z-index: -1;
+        opacity: 0.1;
+        background-repeat: no-repeat;
+        background-position: 0% 0;
+        -ms-background-size: cover;
+        -o-background-size: cover;
+        -moz-background-size: cover;
+        -webkit-background-size: cover;
+        background-size: cover;
+    }
 </style>
 
 <body id="page-top">
@@ -90,7 +109,7 @@
     </div>
 </header>
 
-<section id="about">
+<section id="about" class="fondo">
     <div class="container">
         <div class="row">
             <div class="col-lg-12 mx-auto">
@@ -213,7 +232,7 @@
                         <textarea class="form-control" id="exampleTextarea" rows="3"></textarea>
                     </div>
 
-                    <button id="enviar"
+                    <button id="envio"
                             style="width: 170px; height: 50px;background-color: #F78223; color: white"
                             type="button" class="btn"><strong>Enviar</strong></button>
                 </form>
