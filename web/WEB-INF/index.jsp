@@ -55,19 +55,40 @@
         border-color: #007BFF;
         background-color: #FFFFFF;
     }
-    .fondo:before{
-        background-image: url('../img/fondo.jpg');
+
+    .fondo:before {
+        background-image: url('../img/fon.png');
         content: ' ';
         display: block;
         position: absolute;
         left: 0;
         top: 0;
         width: 100%;
-        height: 150%;
+        height: 110%;
         z-index: -1;
-        opacity: 0.1;
+        opacity: 0.5;
         background-repeat: no-repeat;
         background-position: 0% 0;
+        -ms-background-size: cover;
+        -o-background-size: cover;
+        -moz-background-size: cover;
+        -webkit-background-size: cover;
+        background-size: cover;
+    }
+
+    .fondo2:before {
+        background-image: url('../img/fondo.jpg');
+        content: ' ';
+        display: block;
+        position: absolute;
+        left: 0;
+        top: 1690px;
+        width: 100%;
+        height: 60%;
+        z-index: -1;
+        opacity: 0.50;
+        background-repeat: no-repeat;
+        background-position: 50% 0;
         -ms-background-size: cover;
         -o-background-size: cover;
         -moz-background-size: cover;
@@ -81,7 +102,7 @@
 <!-- Navigation -->
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="mainNav">
     <div class="container">
-        <a class="navbar-brand js-scroll-trigger" href="#page-top">Jony Empire</a>
+        <a class="navbar-brand js-scroll-trigger" href="#page-top">Jony Empire: Digital Money Exchange</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive"
                 aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -89,25 +110,25 @@
         <div class="collapse navbar-collapse" id="navbarResponsive">
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item">
-                    <a class="nav-link js-scroll-trigger" href="#about">About</a>
+                    <a class="nav-link js-scroll-trigger" href="#about">Exchange</a>
+                </li>
+                <li class="nav-item" id="solicitud" style="display: none;">
+                    <a class="nav-link js-scroll-trigger" href="#services">Solicitud</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link js-scroll-trigger" href="#services">Services</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link js-scroll-trigger" href="#contact">Contact</a>
+                    <a class="nav-link js-scroll-trigger" href="#contact">Contacto</a>
                 </li>
             </ul>
         </div>
     </div>
 </nav>
 
-<header class="bg-primary text-white">
+<!--<header class="bg-primary text-white" style="">
     <div class="container text-center">
-        <h1>Welcome to Scrolling Nav</h1>
-        <p class="lead">A landing page template freshly redesigned for Bootstrap 4</p>
+        <h1>Jony Empire</h1>
+        <p class="lead">Digital Money Exchange</p>
     </div>
-</header>
+</header> -->
 
 <section id="about" class="fondo">
     <div class="container">
@@ -116,15 +137,16 @@
                 <div class="row">
                     <div class="col-lg-3 mx-auto">
                         <!-- neteller ; skrill ; payoner ; amazon gifcard ; bitcoin -->
+                        <div class="row"><strong>PASO 1 </strong><img src="../img/help_blue.png" height="23"></div>
                         <div class="row"
-                             style="background-color: #55AAFF; color: white; font-size: 20px;border-top-left-radius: 0px;border-top-right-radius: 0px;">
-                            <label style="margin-left: 85px;"><strong>Env&iacute;as</strong></label>
+                             style="background-color: #55AAFF; color: white; font-size: 25px;border-top-left-radius: 0px;border-top-right-radius: 0px;">
+                            <label style="margin-left: 105px;margin-top: 5px;"><strong>Env&iacute;as</strong></label>
                         </div>
                         <div class="row" style="background-color: #EAEAE9; border-bottom: #DAD8D8 solid 1px;">
 
-                                <input type="text" maxlength="7" size="22" id="origen" class="input-element"
-                                       style="border: none;margin-left: 0px; margin-top: 0px;border-right: #DAD8D8 solid 2px;border-left: #DAD8D8 solid 2px; text-align: right; padding-right: 12px;"><strong
-                                    style="color: #878889">&nbsp&nbspUSD</strong>
+                            <input type="text" maxlength="7" size="20" id="origen" class="input-element-origen"
+                                   style="font-weight: bold;color: #003087;border: none;margin-left: 0px; margin-top: 0px;border-right: #DAD8D8 solid 2px;border-left: #DAD8D8 solid 2px; text-align: right; padding-right: 12px;"><strong
+                                style="color: #878889">&nbsp&nbspUSD</strong>
 
                         </div>
                         <div class="row centrador monederos-origen" id="neteller-envio">
@@ -147,14 +169,15 @@
 
                     <div class="col-lg-3 mx-auto">
                         <!-- neteller ; skrill ; payoner ; amazon gifcard ; bitcoin -->
+                        <div class="row"><strong>PASO 2 </strong><img src="../img/help_blue.png" height="23"></div>
                         <div class="row"
-                             style="background-color: #55AAFF; color: white; font-size: 20px;border-top-left-radius: 0px;border-top-right-radius: 0px;">
-                            <label style="margin-left: 85px;"><strong>Recibes</strong></label>
+                             style="background-color: #55AAFF; color: white; font-size: 25px;border-top-left-radius: 0px;border-top-right-radius: 0px;">
+                            <label style="margin-left: 105px; margin-top: 5px;"><strong>Recibes</strong></label>
                         </div>
                         <div class="row" style="background-color: #EAEAE9; border-bottom: #DAD8D8 solid 1px;">
 
-                            <input type="text" size="22" class="input-element" maxlength="7"
-                                   style="border: none;margin-left: 0px; margin-top: 0px;border-right: #DAD8D8 solid 2px;border-left: #DAD8D8 solid 2px; text-align: right; padding-right: 12px;"><strong
+                            <input type="text" size="20" class="input-element-destino" maxlength="7"
+                                   style="font-weight: bold;color: #003087;border: none;margin-left: 0px; margin-top: 0px;border-right: #DAD8D8 solid 2px;border-left: #DAD8D8 solid 2px; text-align: right; padding-right: 12px;"><strong
                                 style="color: #878889">&nbsp&nbspUSD</strong>
                         </div>
                         <div class="row centrador monederos-destino" id="neteller-recibo">
@@ -178,6 +201,7 @@
 
                     </div>
                     <div class="col-lg-4 mx-auto">
+                        <div class="row" style="margin-left: 17px;"><strong>PASO 3 </strong><img src="../img/help_blue.png" height="23"></div>
                         <a class="nav-link js-scroll-trigger" href="#services">
                             <button id="enviar"
                                     style="width: 170px; height: 50px;background-color: #F78223; color: white"
@@ -198,7 +222,7 @@
     </div>
 </section>
 
-<section id="services" class="bg-light" style="display: none;">
+<section id="services" class="bg-light fondo2" style="display: none;">
     <div class="container">
         <div class="row">
             <div class="col-lg-8 mx-auto" style="margin-top: -100px;">
@@ -245,7 +269,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-8 mx-auto">
-                <h2>Contact us</h2>
+                <h2>Contactenos</h2>
                 <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero odio fugiat voluptatem
                     dolor, provident officiis, id iusto! Obcaecati incidunt, qui nihil beatae magnam et repudiandae ipsa
                     exercitationem, in, quo totam.</p>
@@ -257,7 +281,7 @@
 <!-- Footer -->
 <footer class="py-5 bg-dark">
     <div class="container">
-        <p class="m-0 text-center text-white">Copyright &copy; Your Website 2017</p>
+        <p class="m-0 text-center text-white">Copyright &copy; Your Website 2018</p>
     </div>
     <!-- /.container -->
 </footer>
@@ -290,6 +314,7 @@
 
         $("#enviar").click(function () {
             $("#services").show();
+            $("#solicitud").show();
             var origen = $(".monedero-seleccion-origen").attr("id");
             $("#cuenta-origen").html("Ingrese cuenta " + origen.slice(0, -6) + " origen");
 
@@ -301,7 +326,14 @@
 
     });
 
-    var cleave = new Cleave('.input-element', {
+    var cleave1 = new Cleave('.input-element-origen', {
+        numeral: true,
+        numeralDecimalMark: ',',
+        delimiter: '.'
+
+    });
+
+    var cleave2 = new Cleave('.input-element-destino', {
         numeral: true,
         numeralDecimalMark: ',',
         delimiter: '.'
