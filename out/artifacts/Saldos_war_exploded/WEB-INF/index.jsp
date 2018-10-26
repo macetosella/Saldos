@@ -149,20 +149,22 @@
                                 style="color: #878889">&nbsp&nbspUSD</strong>
 
                         </div>
-                        <div class="row centrador monederos-origen" id="neteller-envio">
-                            <img class="imagen" src="../img/neteller.medium.png">
-                        </div>
-                        <div class="row centrador monederos-origen" id="skrill-envio">
-                            <img class="imagen" src="../img/skrill.medium.png">
-                        </div>
-                        <div class="row centrador monederos-origen" id="payoneer-envio">
-                            <img class="imagen" src="../img/payoneer.medium.png">
-                        </div>
-                        <div class="row centrador monederos-origen" id="bitcoin-envio">
-                            <img class="imagen" src="../img/bitcoin.medium.png">
-                        </div>
-                        <div class="row centrador monederos-origen" id="amazon-envio">
-                            <img class="imagen" src="../img/amazon.medium.png">
+                        <div id="monederos-de-origen">
+                            <div class="row centrador monederos-origen" id="neteller-envio">
+                                <img class="imagen" src="../img/neteller.medium.png">
+                            </div>
+                            <div class="row centrador monederos-origen" id="skrill-envio">
+                                <img class="imagen" src="../img/skrill.medium.png">
+                            </div>
+                            <div class="row centrador monederos-origen" id="payoneer-envio">
+                                <img class="imagen" src="../img/payoneer.medium.png">
+                            </div>
+                            <div class="row centrador monederos-origen" id="bitcoin-envio">
+                                <img class="imagen" src="../img/bitcoin.medium.png">
+                            </div>
+                            <div class="row centrador monederos-origen" id="amazon-envio">
+                                <img class="imagen" src="../img/amazon.medium.png">
+                            </div>
                         </div>
 
                     </div>
@@ -180,25 +182,26 @@
                                    style="font-weight: bold;color: #003087;border: none;margin-left: 0px; margin-top: 0px;border-right: #DAD8D8 solid 2px;border-left: #DAD8D8 solid 2px; text-align: right; padding-right: 12px;"><strong
                                 style="color: #878889">&nbsp&nbspUSD</strong>
                         </div>
-                        <div class="row centrador monederos-destino" id="neteller-recibo">
-                            <img class="imagen" src="../img/neteller.medium.png">
+                        <div id="monederos-de-destino">
+                            <div class="row centrador monederos-destino" id="neteller-recibo">
+                                <img class="imagen" src="../img/neteller.medium.png">
+                            </div>
+                            <div class="row centrador monederos-destino" id="skrill-recibo">
+                                <img class="imagen" src="../img/skrill.medium.png">
+                            </div>
+                            <div class="row centrador monederos-destino" id="payoneer-recibo">
+                                <img class="imagen" src="../img/payoneer.medium.png">
+                            </div>
+                            <div class="row centrador monederos-destino" id="bitcoin-recibo">
+                                <img class="imagen" src="../img/bitcoin.medium.png">
+                            </div>
+                            <div class="row centrador monederos-destino" id="amazon-recibo">
+                                <img class="imagen" src="../img/amazon.medium.png">
+                            </div>
+                            <div class="row centrador monederos-destino" id="paypal-recibo">
+                                <img class="imagen" src="../img/paypal.medium.png">
+                            </div>
                         </div>
-                        <div class="row centrador monederos-destino" id="skrill-recibo">
-                            <img class="imagen" src="../img/skrill.medium.png">
-                        </div>
-                        <div class="row centrador monederos-destino" id="payoneer-recibo">
-                            <img class="imagen" src="../img/payoneer.medium.png">
-                        </div>
-                        <div class="row centrador monederos-destino" id="bitcoin-recibo">
-                            <img class="imagen" src="../img/bitcoin.medium.png">
-                        </div>
-                        <div class="row centrador monederos-destino" id="amazon-recibo">
-                            <img class="imagen" src="../img/amazon.medium.png">
-                        </div>
-                        <div class="row centrador monederos-destino" id="paypal-recibo">
-                            <img class="imagen" src="../img/paypal.medium.png">
-                        </div>
-
                     </div>
                     <div class="col-lg-4 mx-auto">
                         <div class="row" style="margin-left: 17px;"><strong>PASO 3 </strong><img
@@ -209,11 +212,11 @@
                                     type="button" class="btn"><strong>Siguiente</strong></button>
                         </a>
                         <div class="alert alert-danger" role="alert" style="display: none;" id="errores">
-                           <!-- <label id="error-monto-min"style="display: none;">* Debe enviar un minimo de 25 USD.</label><br>
-                            <label id="error-origen"style="display: none;">* Debe seleccionar un monedero de origen.</label><br>
-                            <label id="error-destino"style="display: none;">* Debe seleccionar un monedero de destino.</label><br>
-                            <label id="error-monto-max"style="display: none;">* El monto maximo es de 2000 USD.</label><br>
-                            <label id="error-monto-numeric"style="display: none;">* El monto debe ser un numero decimal.</label><br> -->
+                            <!-- <label id="error-monto-min"style="display: none;">* Debe enviar un minimo de 25 USD.</label><br>
+                             <label id="error-origen"style="display: none;">* Debe seleccionar un monedero de origen.</label><br>
+                             <label id="error-destino"style="display: none;">* Debe seleccionar un monedero de destino.</label><br>
+                             <label id="error-monto-max"style="display: none;">* El monto maximo es de 2000 USD.</label><br>
+                             <label id="error-monto-numeric"style="display: none;">* El monto debe ser un numero decimal.</label><br> -->
                         </div>
                     </div>
                 </div>
@@ -317,20 +320,47 @@
             var monto_origen = $(".input-element-origen").val();
             var monto_destino = $(".input-element-destino").val();
             var errores = "";
+            var clase = "";
+            var flag_origen = 0;
+            var flag_destino = 0;
 
-            if(!validateDecimal(monto_origen) || !validateDecimal(monto_destino))
+            if (!validateDecimal(monto_origen) || !validateDecimal(monto_destino))
                 errores += "<label id=\"error-monto-numeric\">* El monto debe ser un numero decimal.</label>";
 
-            if(monto_origen > 2000 || monto_destino > 2000)
-               errores += "<label id=\"error-monto-max\">* El monto maximo es de 2000 USD.</label><br>";
+            if (monto_origen > 2000 || monto_destino > 2000)
+                errores += "<label id=\"error-monto-max\">* El monto maximo es de 2000 USD.</label><br>";
 
-            if(monto_origen < 25 || monto_destino < 25)
+            if (monto_origen < 25 || monto_destino < 25)
                 errores += "<label id=\"error-monto-min\">* Debe enviar/recibir un minimo de 25 USD.</label><br>";
 
-            if(errores != ""){
+            $("#monederos-de-origen div").each(function () {
+                clase = ($(this).attr('class'));
+                if (clase.localeCompare("row centrador monedero-seleccion-origen") == 0) {
+                    flag_origen = 1;
+                }
+
+            });
+
+            if (flag_origen == 0) {
+                errores += "<label>* Debe seleccionar un monedero de origen.</label><br>";
+            }
+
+            $("#monederos-de-destino div").each(function () {
+                clase = ($(this).attr('class'));
+                if (clase.localeCompare("row centrador monedero-seleccion-destino") == 0) {
+                    flag_destino = 1;
+
+                }
+            });
+
+            if (flag_destino == 0) {
+                errores += "<label>* Debe seleccionar un monedero de destino.</label><br>";
+            }
+
+            if (errores != "") {
                 $("#errores").show();
                 $("#errores").html(errores);
-            }else{
+            } else {
                 $("#errores").hide()
                 $("#errores").html("");
                 errores = "";
