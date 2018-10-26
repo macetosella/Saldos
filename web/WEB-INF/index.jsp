@@ -201,18 +201,19 @@
 
                     </div>
                     <div class="col-lg-4 mx-auto">
-                        <div class="row" style="margin-left: 17px;"><strong>PASO 3 </strong><img src="../img/help_blue.png" height="23"></div>
+                        <div class="row" style="margin-left: 17px;"><strong>PASO 3 </strong><img
+                                src="../img/help_blue.png" height="23"></div>
                         <a class="nav-link js-scroll-trigger" href="#services">
                             <button id="enviar"
                                     style="width: 170px; height: 50px;background-color: #F78223; color: white"
                                     type="button" class="btn"><strong>Siguiente</strong></button>
                         </a>
-                        <div class="alert alert-danger" role="alert" style="display: none;">
-                            <label id="error-monto-min">* Debe enviar un minimo de 25 USD.</label><br>
-                            <label id="error-origen">* Debe seleccionar un monedero de origen.</label><br>
-                            <label id="error-destino">* Debe seleccionar un monedero de destino.</label><br>
-                            <label id="error-monto-max">* El monto maximo es de 2000 USD.</label><br>
-                            <label id="error-monto-numeric">* El monto debe ser un numero.</label><br>
+                        <div class="alert alert-danger" role="alert" style="display: none;" id="errores">
+                           <!-- <label id="error-monto-min"style="display: none;">* Debe enviar un minimo de 25 USD.</label><br>
+                            <label id="error-origen"style="display: none;">* Debe seleccionar un monedero de origen.</label><br>
+                            <label id="error-destino"style="display: none;">* Debe seleccionar un monedero de destino.</label><br>
+                            <label id="error-monto-max"style="display: none;">* El monto maximo es de 2000 USD.</label><br>
+                            <label id="error-monto-numeric"style="display: none;">* El monto debe ser un numero decimal.</label><br> -->
                         </div>
                     </div>
                 </div>
@@ -313,6 +314,29 @@
         });
 
         $("#enviar").click(function () {
+            var monto_origen = $(".input-element-origen").val();
+            var monto_destino = $(".input-element-destino").val();
+            var errores = "";
+
+            if(!validateDecimal(monto_origen) || !validateDecimal(monto_destino))
+                errores += "<label id=\"error-monto-numeric\">* El monto debe ser un numero decimal.</label>";
+
+            if(monto_origen > 2000 || monto_destino > 2000)
+               errores += "<label id=\"error-monto-max\">* El monto maximo es de 2000 USD.</label><br>";
+
+            if(monto_origen < 25 || monto_destino < 25)
+                errores += "<label id=\"error-monto-min\">* Debe enviar/recibir un minimo de 25 USD.</label><br>";
+
+            if(errores != ""){
+                $("#errores").show();
+                $("#errores").html(errores);
+            }else{
+                $("#errores").hide()
+                $("#errores").html("");
+                errores = "";
+            }
+
+
             $("#services").show();
             $("#solicitud").show();
             var origen = $(".monedero-seleccion-origen").attr("id");
@@ -323,20 +347,28 @@
 
         });
 
+        function validateDecimal(valor) {
+            var RE = /^\d*(\.\d{1})?\d{0,1}$/;
+            if (RE.test(valor)) {
+                return true;
+            } else {
+                return false;
+            }
+        }
 
     });
 
     var cleave1 = new Cleave('.input-element-origen', {
         numeral: true,
-        numeralDecimalMark: ',',
-        delimiter: '.'
+        numeralDecimalMark: '.',
+        delimiter: ''
 
     });
 
     var cleave2 = new Cleave('.input-element-destino', {
         numeral: true,
-        numeralDecimalMark: ',',
-        delimiter: '.'
+        numeralDecimalMark: '.',
+        delimiter: ''
 
     });
 </script>
