@@ -1,0 +1,108 @@
+.centrador {
+    position: relative;
+    padding: 40px;
+
+}
+
+.imagen {
+    position: absolute;
+
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+}
+
+.monederos-origen {
+    border: #DAD8D8 solid 1px;
+    background-color: #EAEAE9;
+}
+
+.monederos-destino {
+    border: #DAD8D8 solid 1px;
+    background-color: #EAEAE9;
+}
+
+.monedero-seleccion-origen {
+    border-left: #1b1e21 solid 5px;
+    border-color: #007BFF;
+    background-color: #FFFFFF;
+}
+
+.monedero-seleccion-destino {
+    border-left: #1b1e21 solid 5px;
+    border-color: #007BFF;
+    background-color: #FFFFFF;
+}
+
+.fondo:before {
+    background-image: url('../img/fon.png');
+    content: ' ';
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 110%;
+    z-index: -1;
+    opacity: 0.5;
+    background-repeat: no-repeat;
+    background-position: 0% 0;
+    -ms-background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.fondo2:before {
+    background-image: url('../img/fondo.jpg');
+    content: ' ';
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 1690px;
+    width: 100%;
+    height: 60%;
+    z-index: -1;
+    opacity: 0.50;
+    background-repeat: no-repeat;
+    background-position: 50% 0;
+    -ms-background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+#envio {
+    width: 170px;
+    height: 50px;
+    background-color: #F78223;
+    color: white;
+}
+
+.input-element-destino {
+    font-weight: bold;
+    color: #003087;
+    border: none;
+    margin-left: 0px;
+    margin-top: 0px;
+    border-right: #DAD8D8 solid 2px;
+    border-left: #DAD8D8 solid 2px;
+    text-align: right;
+    padding-right: 12px;
+}
+
+.input-element-origen {
+    font-weight: bold;
+    color: #003087;
+    border: none;
+    margin-left: 0px;
+    margin-top: 0px;
+    border-right: #DAD8D8 solid 2px;
+    border-left: #DAD8D8 solid 2px;
+    text-align: right;
+    padding-right: 12px;
+}
