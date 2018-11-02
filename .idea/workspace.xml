@@ -11,23 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6b836004-9652-4c06-93df-00a287e049e7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Saldos_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_5_1_47.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ar/com/saldos/clases/ConexionMySQL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ar/com/saldos/daos/MonederoDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ar/com/saldos/dtos/MonederoDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/js/scripts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Saldos_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/Saldos_war_exploded.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saldos.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Saldos.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Saldos_war_exploded/WEB-INF/classes/ar/com/saldos/servlets/Servlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Saldos_war_exploded/WEB-INF/classes/ar/com/saldos/servlets/Servlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Saldos_war_exploded/WEB-INF/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/Saldos_war_exploded/WEB-INF/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Saldos/ar/com/saldos/servlets/Servlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Saldos/ar/com/saldos/servlets/Servlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ar/com/saldos/servlets/Servlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ar/com/saldos/servlets/Servlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/index.jsp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -70,7 +54,7 @@
     <session id="1645062503">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.3" value="1" />
@@ -117,7 +101,7 @@
           <entry key="dummy" value="17" />
           <entry key="html" value="52" />
           <entry key="java" value="1255" />
-          <entry key="js" value="246" />
+          <entry key="js" value="251" />
           <entry key="jsp" value="3695" />
           <entry key="sql" value="48" />
           <entry key="xml" value="37" />
@@ -129,7 +113,7 @@
           <entry key="HTML" value="52" />
           <entry key="JAVA" value="1255" />
           <entry key="JSP" value="3695" />
-          <entry key="JavaScript" value="246" />
+          <entry key="JavaScript" value="251" />
           <entry key="PLAIN_TEXT" value="17" />
           <entry key="Scratch" value="61" />
           <entry key="XML" value="37" />
@@ -215,11 +199,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ar/com/saldos/daos/MonederoDAO.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="90" column="127" lean-forward="true" selection-start-line="90" selection-start-column="127" selection-end-line="90" selection-end-column="139" />
+            <state relative-caret-position="175">
+              <caret line="71" column="46" selection-start-line="71" selection-start-column="46" selection-end-line="71" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#827#840#0" expanded="true" />
@@ -249,11 +233,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/js/scripts.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="105" selection-start-line="20" selection-start-column="98" selection-end-line="20" selection-end-column="105" />
+            <state relative-caret-position="670">
+              <caret line="97" column="17" selection-start-line="97" selection-start-column="17" selection-end-line="97" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -335,9 +319,9 @@
         <option value="$PROJECT_DIR$/src/ar/com/saldos/dtos/monederoDTO.java" />
         <option value="$PROJECT_DIR$/src/ar/com/saldos/dtos/MonederoDTO.java" />
         <option value="$PROJECT_DIR$/src/ar/com/saldos/servlets/Servlet.java" />
-        <option value="$PROJECT_DIR$/web/js/scripts.js" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/44a33e0c-a94f-4293-8f89-6d4a990f4eff/console.sql" />
         <option value="$PROJECT_DIR$/src/ar/com/saldos/daos/MonederoDAO.java" />
+        <option value="$PROJECT_DIR$/web/js/scripts.js" />
       </list>
     </option>
   </component>
@@ -447,7 +431,7 @@
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541021870323" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541083187455" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="last_opened_file_path" value="$USER_HOME$/Downloads/mysql-connector-java-5.1.47/mysql-connector-java-5.1.47/mysql-connector-java-5.1.47.jar!/" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -578,16 +562,15 @@
       <workItem from="1540477504175" duration="185000" />
       <workItem from="1540478029027" duration="53223000" />
       <workItem from="1540927335656" duration="598000" />
-      <workItem from="1540999747123" duration="14638000" />
+      <workItem from="1540999747123" duration="15517000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="74145000" />
+    <option name="totallyTimeSpent" value="75024000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4967462" visible="true" weight="0.26279318" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -601,7 +584,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3991323" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -628,18 +611,6 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ar/com/saldos/daos/MonederoDAO.java</url>
-          <line>68</line>
-          <properties />
-          <option name="timeStamp" value="32" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateCodeFragment">
@@ -800,13 +771,6 @@ rs.getString(&quot;monedero&quot;);</expression-string>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/js/scripts.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="105" selection-start-line="20" selection-start-column="98" selection-end-line="20" selection-end-column="105" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/44a33e0c-a94f-4293-8f89-6d4a990f4eff/console.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -874,12 +838,19 @@ rs.getString(&quot;monedero&quot;);</expression-string>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ar/com/saldos/daos/MonederoDAO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="90" column="127" lean-forward="true" selection-start-line="90" selection-start-column="127" selection-end-line="90" selection-end-column="139" />
+        <state relative-caret-position="175">
+          <caret line="71" column="46" selection-start-line="71" selection-start-column="46" selection-end-line="71" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#827#840#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="670">
+          <caret line="97" column="17" selection-start-line="97" selection-start-column="17" selection-end-line="97" selection-end-column="17" />
         </state>
       </provider>
     </entry>
